@@ -1,4 +1,4 @@
-## Hi there 👋
+## "Ikan-ikan apa yang banyak matanya!? Ikan teri 1 kilo". 😂xixixi😂
 
 <!--
 **VianRo/VianRo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**About me :**
+- 💠Sedang bersama Raja Iblis untuk menaklukkan dunia
+- 💠Pengguna **sihir kegelapan**
+- 💠Seorang petualang dengan **rank SSS**
+![gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm93amVzdnFocjI3Mnh5M2dsMDIwN2trMmE1dmpwMHJjZXg4amVmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FeVg8ViEczcxG/giphy.gif)
