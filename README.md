@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 💠Pengguna **sihir kegelapan**
 - 💠Seorang petualang dengan **rank SSS**
 
-![gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm93amVzdnFocjI3Mnh5M2dsMDIwN2trMmE1dmpwMHJjZXg4amVmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FeVg8ViEczcxG/giphy.gif)
+![gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2w1a3hlcm82aGRpZmw1eGxhdHVkZTk0c2ZmY3MwdHdrNHY4djB5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1gLZ32bMP5pY52PBsm/giphy.gif)
