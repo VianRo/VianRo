@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - 💠Sedang bersama Raja Iblis untuk menaklukkan dunia
 - 💠Pengguna **sihir kegelapan**
 - 💠Seorang petualang dengan **rank SSS**
+
 ![gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm93amVzdnFocjI3Mnh5M2dsMDIwN2trMmE1dmpwMHJjZXg4amVmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FeVg8ViEczcxG/giphy.gif)
