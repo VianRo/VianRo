@@ -21,4 +21,3 @@ Here are some ideas to get you started:
 - 💠Seorang petualang dengan **rank SSS**
 
 ![gift](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm93amVzdnFocjI3Mnh5M2dsMDIwN2trMmE1dmpwMHJjZXg4amVmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FeVg8ViEczcxG/giphy.gif)
-![gift1](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRleHNyNmQ1N2h1YmNndWhmd3Z1d2VsdXBqNXhia2t4bDV0M3dyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RL1Jl8PnNDqz9hy83b/giphy.gif)
