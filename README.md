@@ -57,4 +57,6 @@
   <img src="https://streak-stats.demolab.com?user=VianRo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/397jCX8wRPKsSZTDcAUccg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 <img src="https://raw.githubusercontent.com/VianRo/VianRo/output/snake.svg" alt="Snake animation" />
