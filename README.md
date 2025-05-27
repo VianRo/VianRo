@@ -30,16 +30,18 @@
 
 <div align="center">
 
-#### About me :*
+<h3> About me 🤔 </h3>
+
 </div>
 
-- 💠Sedang bersama Raja Iblis untuk menaklukkan dunia
-- 💠Pengguna **sihir kegelapan**
-- 💠Seorang petualang dengan **rank SSS**
+💠**Sedang bersama Raja Iblis untuk menaklukkan dunia
+💠Pengguna sihir kegelapan
+💠Seorang petualang dengan rank SSS**
 
 <div align="center">
 
-#### skills ✍️
+<h3> skills ✍️ </h3>
+
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
