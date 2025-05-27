@@ -34,8 +34,8 @@
 
 </div>
 
-💠**Sedang bersama Raja Iblis untuk menaklukkan dunia
-💠Pengguna sihir kegelapan
+💠**Sedang bersama Raja Iblis untuk menaklukkan dunia <br>
+💠Pengguna sihir kegelapan<br>
 💠Seorang petualang dengan rank SSS**
 
 <div align="center">
