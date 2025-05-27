@@ -1,25 +1,21 @@
+<h1 align="center">Raditya</h1>
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9jN3pzaWl0OTMwZXE2cmFka3RtZHJzbWY0bmFyZ3UzM2ZmYmtwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GAFd7zecFb6Ss/giphy.gif"  /> 
 </div>
-
-###
 
 <div align="center">
 
 ![https://instagram.com/r_vian0/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://x.com/Rokub0](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white) ![https://www.tiktok.com/@rokubo_?lang=id-ID](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 </div>
 
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=${VianRo}"  />
 </div>
 
-###
+<div align="center">
+<img src="https://raw.githubusercontent.com/VianRo/VianRo/output/snake.svg" alt="Snake animation" />
+</div>
 
-<h1 align="center">Hey there 👋</h1>
-
-###
 <!-- <div align="center">
 <img src="https://raw.githubusercontent.com/VianRo/VianRo/output/snake.svg" alt="Snake animation" />
 </div> -->
@@ -51,8 +47,12 @@
 
 <h3 align="center">🔥   My Stats 🔥   </h3>
 
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=VianRo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VianRo/VianRo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VianRo/VianRo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VianRo/VianRo/output/pacman-contribution-graph.svg">
+</picture>
