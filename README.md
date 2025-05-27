@@ -1,5 +1,4 @@
-<h1 align="center">Raditya</h1>
-<div align="center">
+<div align="center"><h1 align="center">Raditya</h1>
   <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9jN3pzaWl0OTMwZXE2cmFka3RtZHJzbWY0bmFyZ3UzM2ZmYmtwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GAFd7zecFb6Ss/giphy.gif"  /> 
 </div>
 
@@ -13,7 +12,13 @@
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/VianRo/VianRo/output/snake.svg" alt="Snake animation" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VianRo/VianRo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VianRo/VianRo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VianRo/VianRo/output/pacman-contribution-graph.svg">
+</picture>
+
 </div>
 
 <!-- <div align="center">
@@ -51,8 +56,4 @@
   <img src="https://streak-stats.demolab.com?user=VianRo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VianRo/VianRo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VianRo/VianRo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VianRo/VianRo/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/VianRo/VianRo/output/snake.svg" alt="Snake animation" />
