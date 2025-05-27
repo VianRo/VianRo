@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9jN3pzaWl0OTMwZXE2cmFka3RtZHJzbWY0bmFyZ3UzM2ZmYmtwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GAFd7zecFb6Ss/giphy.gif"  /> 
+  <img height="150" src="https://media.tenor.com/hOUCRY-t_t4AAAAj/dance-jam.gif" style="border-radius: 50%;" />
 </div>
-<h1 align="center">Raditya</h1>
 
+ <h1 align="center">Raditya</h1>
 <div align="center">
 
 ![https://instagram.com/r_vian0/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://x.com/Rokub0](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white) ![https://www.tiktok.com/@rokubo_?lang=id-ID](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
