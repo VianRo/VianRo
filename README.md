@@ -1,5 +1,7 @@
 ## "Ikan-ikan apa yang banyak matanya!? Ikan teri 1 kilo". 😂xixixi😂
 
+![header](IMG/github-header-image.png)
+
 <!--
 **VianRo/VianRo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
