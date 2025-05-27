@@ -56,5 +56,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=VianRo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+<h3 align="center"> 🎵  Spotify 🗣️   </h3>
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31hftjj3x3c6ngg5r4c2osxthyae)
