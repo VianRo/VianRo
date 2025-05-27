@@ -20,9 +20,9 @@
 <h1 align="center">Hey there 👋</h1>
 
 ###
-<div align="center">
+<!-- <div align="center">
 <img src="https://raw.githubusercontent.com/VianRo/VianRo/output/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
 <!-- <h1 align="center">Hi there 👋 I'm Raditya 🙋‍♂️🧑‍🦱</h1>
 
 ![header](IMG/github-header-image.png)
