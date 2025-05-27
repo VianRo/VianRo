@@ -1,6 +1,7 @@
-<div align="center"><h1 align="center">Raditya</h1>
+<div align="center">
   <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9jN3pzaWl0OTMwZXE2cmFka3RtZHJzbWY0bmFyZ3UzM2ZmYmtwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GAFd7zecFb6Ss/giphy.gif"  /> 
 </div>
+<h1 align="center">Raditya</h1>
 
 <div align="center">
 
