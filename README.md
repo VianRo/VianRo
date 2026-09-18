@@ -58,4 +58,4 @@
 </div>
 <h3 align="center"> 🎵  Spotify 🗣️   </h3>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31hftjj3x3c6ngg5r4c2osxthyae)
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31q7xfbhytuswteg2b2seuuepvxe)
